@@ -1,4 +1,4 @@
-![Plano de Fundo}(https://github.com/LariMigueel/LariMigueel/blob/main/foto.jpg)
+![Plano de Fundo}(https://images.pexels.com/photos/2882517/pexels-photo-2882517.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 
 
