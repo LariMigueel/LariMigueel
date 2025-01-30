@@ -1,4 +1,4 @@
-![Plano de Fund](https://images.pexels.com/photos/2882517/pexels-photo-2882517.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![Plano de Fund](https://images.pexels.com/photos/2882517/pexels-photo-2882517.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)  "width="500" height="600"
 
 
 
