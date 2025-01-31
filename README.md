@@ -6,7 +6,7 @@
 <h1> Olá bem vindos, sou a Larissa Desenvolvedora Front-End.</h1>
 <h2> "Gostaria de compartilhar um pouco do meu mundo, onde a mistura de códigos e muito estudo fazem parte do meu dia a dia. Sou apaixonada pelo que faço e estou sempre em busca de me aperfeiçoar."💻💖</h2>
 
-<a href="/https:/www.linkedin.com/in/larissarmiguel"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png"</a> 
+<a href="/https:/www.linkedin.com/in/larissarmiguel"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" style="margin-left:20px;" width="25" height="25"></a> 
 
 
 
