@@ -8,7 +8,9 @@
 <h2> "Gostaria de compartilhar um pouco do meu mundo, onde a mistura de códigos e muito estudo fazem parte do meu dia a dia. Sou apaixonada pelo que faço e estou sempre em busca de me aperfeiçoar."💻💖</h2>
 
 <div> 
-
+<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LariMigueel?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/DenverCoder1?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/LariMigueel?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://www.instagram.com/lari.migueel?igsh=dDFja3Z4amU1YjNm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
   <a href = "ramossomar@outlook.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
