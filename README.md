@@ -9,6 +9,5 @@
 <a href="/https:/www.linkedin.com/in/larissarmiguel"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" style="margin-left:20px;" width="25" height="25"></a> 
 <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Outlook_Icon.png" style="margin-left:20px;" width="25" height="25"></a> 
 
-
-
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
 
