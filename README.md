@@ -1,13 +1,108 @@
-![Plano de Fund](https://images.pexels.com/photos/20853116/pexels-photo-20853116/free-photo-of-internet-tecnologia-computador-numeros.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1). 
 
 
+# 👩🏻‍💻 Larissa Miguel
+
+**`Desenvolvedora  Front-End`**
 
 
-<h1> Olá bem vindos, sou a Larissa Desenvolvedora Front-End.</h1>
 <h2> "Gostaria de compartilhar um pouco do meu mundo, onde a mistura de códigos e muito estudo fazem parte do meu dia a dia. Sou apaixonada pelo que faço e estou sempre em busca de me aperfeiçoar."💻💖</h2>
 
-<a href="/https:/www.linkedin.com/in/larissarmiguel"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" style="margin-left:20px;" width="25" height="25"></a> 
-<a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Outlook_Icon.png" style="margin-left:20px;" width="25" height="25"></a> 
+<div> 
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+  <a href="https://www.instagram.com/lari.migueel?igsh=dDFja3Z4amU1YjNm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+  <a href = "ramossomar@outlook.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/larissarmiguel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+
+
+
+
+<img 
+    align="left" 
+    alt="JQuery" 
+    title="JQuery"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p> 
+
 
